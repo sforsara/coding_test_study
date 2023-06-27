@@ -8,14 +8,14 @@
     <td align="center"><a href="https://github.com/CyberBoder"><img src="https://avatars.githubusercontent.com/CyberBoder" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/hynjxn"><img src="https://avatars.githubusercontent.com/hynjxn" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/sforsara"><img src="https://avatars.githubusercontent.com/sforsara" width="130px;" alt=""></a></td>
-<!--     <td align="center"><a href="https://github.com/하은"><img src="https://avatars.githubusercontent.com/하은" width="130px;" alt=""></a></td> -->
+    <td align="center"><a href="https://github.com/haeuniiiii"><img src="https://avatars.githubusercontent.com/haeuniiiii" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/cje1903"><b>채지은</b></a></td>
     <td align="center"><a href="https://github.com/CyberBoder"><b>이준범</b></a></td>
     <td align="center"><a href="https://github.com/hynjxn"><b>이현진</b></a></td>
     <td align="center"><a href="https://github.com/sforsara"><b>홍사라</b></a></td>
-<!--     <td align="center"><a href="https://github.com/하은"><b>양하은</b></a></td> -->
+    <td align="center"><a href="https://github.com/haeuniiiii"><b>양하은</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
