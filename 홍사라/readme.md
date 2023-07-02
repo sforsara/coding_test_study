@@ -4,11 +4,11 @@
 
 
 # 월별 스터디 목표
-|         7월                 | 
-|       :--------:            | 
-|    🍧그리디 & 결정 알고리즘  |  
-|    🍧스택, 큐, 해쉬, 힙     |
-|      🍧완전탐색(DFS 기초)   |
+|		7월		|		8월		|		9월		|
+|	:--------:              |   :-----------:               | :---------:                   |
+|     🍧그리디 & 결정 알고리즘   |	🎀DFS, BFS 활용		| 	🎀 활용 및 복습          | 
+|     🍧스택, 큐, 해쉬, 힙       |	🎀 Dynamic programming  |                               |
+|     🍧완전탐색(DFS 기초)       |                               |                               |
 
 <p align="justify">
 07월
@@ -21,7 +21,7 @@
 08월
 </p>
 * DFS, BFS 활용
-* Dynammic programming 
+* Dynamic programming 
 
 <p align="justify">
 09월~
